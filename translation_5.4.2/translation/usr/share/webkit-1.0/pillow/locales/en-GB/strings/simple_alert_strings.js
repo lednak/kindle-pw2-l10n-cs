@@ -7,7 +7,7 @@ Application Error	Chyba aplikace
 Battery Level is Low	Baterie je skoro vybitá
 Cancel	Zrušit
 Close	Zavřít
-Cloud Locked	
+Cloud Locked	Cloud je uzamčen
 Debugging Scripts	Ladění skriptů
 Details for this Special Offer are no longer available.	Podrobnosti této speciální nabídky už nejsou k dspozici.
 Details for this Special Offer are no longer available. Turn on wireless to receive the latest content.	Podrobnosti této speciální nabídky už nejsou k dspozici. Zapněte bezdrátové připojení k získání nejnovějšího obsahu.
